@@ -12,6 +12,8 @@
 		0A2D7B85201DDEF800984191 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0A2D7B83201DDEF800984191 /* Main.storyboard */; };
 		0A2D7B87201DDEFA00984191 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0A2D7B86201DDEFA00984191 /* Assets.xcassets */; };
 		0A2D7B8A201DDEFA00984191 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0A2D7B88201DDEFA00984191 /* LaunchScreen.storyboard */; };
+		0A2D7B94201DE4F700984191 /* Textures in Resources */ = {isa = PBXBuildFile; fileRef = 0A2D7B93201DE4F700984191 /* Textures */; };
+		0A2D7B97201DE54900984191 /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 0A2D7B96201DE54900984191 /* art.scnassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		0A2D7B86201DDEFA00984191 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0A2D7B89201DDEFA00984191 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0A2D7B8B201DDEFA00984191 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0A2D7B93201DE4F700984191 /* Textures */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Textures; sourceTree = "<group>"; };
+		0A2D7B96201DE54900984191 /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,8 +62,10 @@
 				0A2D7B81201DDEF800984191 /* ViewController.swift */,
 				0A2D7B83201DDEF800984191 /* Main.storyboard */,
 				0A2D7B86201DDEFA00984191 /* Assets.xcassets */,
+				0A2D7B93201DE4F700984191 /* Textures */,
 				0A2D7B88201DDEFA00984191 /* LaunchScreen.storyboard */,
 				0A2D7B8B201DDEFA00984191 /* Info.plist */,
+				0A2D7B96201DE54900984191 /* art.scnassets */,
 			);
 			path = ARKit_Hittesting;
 			sourceTree = "<group>";
@@ -124,6 +130,8 @@
 			files = (
 				0A2D7B8A201DDEFA00984191 /* LaunchScreen.storyboard in Resources */,
 				0A2D7B87201DDEFA00984191 /* Assets.xcassets in Resources */,
+				0A2D7B97201DE54900984191 /* art.scnassets in Resources */,
+				0A2D7B94201DE4F700984191 /* Textures in Resources */,
 				0A2D7B85201DDEF800984191 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
